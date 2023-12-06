@@ -21,7 +21,7 @@ This Python app uses past Microsoft stock data, applying machine learning and fi
 
 ## Installation
 
-1. Clone Repository
+#### 1. Clone Repository
 
 To install this application, clone the repository using the following command:
 
@@ -29,13 +29,13 @@ To install this application, clone the repository using the following command:
 git clone https://github.com/DragosPancescu/market-prediction.git
 ```
 
-### 2. Install Python Version Indicated in the Badge
+#### 2. Install Python Version Indicated in the Badge
 
 Ensure you have the specific Python version indicated at the top of the repository. You can usually find this version specified within a badge or in the README file.
 
 To install the required Python version, you can use a Python version manager like pyenv or download it from the [Python website](https://www.python.org/downloads/).
 
-### 3. Install Jupyter Notebook Version Indicated in the Badge
+#### 3. Install Jupyter Notebook Version Indicated in the Badge
 
 Ensure you have the specific version of Jupyter Notebook indicated at the top of the repository. This version is often specified within a badge or in the README file.
 
@@ -44,7 +44,7 @@ To install the required version of Jupyter Notebook, you can use pip, the Python
 ```bash
 pip install notebook==<version_number>
 ```
-### 4. Install Python Libraries from the requirements.txt File
+#### 4. Install Python Libraries from the requirements.txt File
 
 To install the necessary Python libraries listed in the `requirements.txt` file, execute the following command in your terminal or command prompt:
 
